@@ -5,7 +5,7 @@
 - [resume](https://za-ahmadi.github.io/)
 - [SOP](https://github.com/za-ahmadi/sop.git) 
 - [js](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/gs.pdf)
-- [html](https://github.com/za-ahmadi/test/blob/main/html.pdf)
+- [html](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/html.jpg)
 
 ------------------
 ## Winter Semester Courses 1399/2020
