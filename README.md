@@ -36,13 +36,13 @@
 
  - [فعالیت مشترک](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/XX_GeneralSection_CheckList_AR_3991.docx)
 
-- [رزومه و انگیزه نامه](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/XX_CV_CheckList_AR_3991.docx)------------
+- [رزومه و انگیزه نامه](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/XX_CV_CheckList_AR_3991.docx)
 
 --------------
 
 ### بخش دروس کارشناسی 
 
-- [تعامل انسان و کامپیوتر]()
+- [تعامل انسان و کامپیوتر](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/XX_HumanComputerInteraction_CheckList_AR_3991.docx)
 
 ## روز و ساعت ارائه دروس
 
