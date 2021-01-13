@@ -44,6 +44,10 @@
 
 - [تعامل انسان و کامپیوتر](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/XX_HumanComputerInteraction_CheckList_AR_3991.docx)
 
+- [طراحی واسط کاربر](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/XX_UserInterfaceDesgin_CheckList_AR_3991.docx)
+
+-[نظریه زبان ها و ماشین ها]()
+
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
