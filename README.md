@@ -44,7 +44,7 @@
 
 - [تعامل انسان و کامپیوتر](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/XX_HumanComputerInteraction_CheckList_AR_3991.docx)
 
-- [طراحی واسط کاربر](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/XX_UserInterfaceDesgin_CheckList_AR_3991.docx)
+- [طراحی واسط کاربر](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/XX_UserInterfaceDesgin_CheckList_AR_3991.pdf)
 
 - [نظریه زبان ها و ماشین ها](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.docx)
 
