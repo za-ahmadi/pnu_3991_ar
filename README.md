@@ -42,7 +42,7 @@
 
 ### بخش دروس کارشناسی 
 
-- [تعامل انسان و کامپیوتر](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/XX_HumanComputerInteraction_CheckList_AR_3991.docx)
+- [تعامل انسان و کامپیوتر](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
 
 - [طراحی واسط کاربر](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/XX_UserInterfaceDesgin_CheckList_AR_3991.pdf)
 
