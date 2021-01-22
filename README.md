@@ -74,7 +74,7 @@
 
 - [طراحی واسط کاربر](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/XX_UserInterfaceDesgin_CheckList_AR_3991.pdf)
 
-- [نظریه زبان ها و ماشین ها](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+- [نظریه زبان ها و ماشین ها](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/Theory-of-Languages-and-Machines/ZAP_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 
 ## روز و ساعت ارائه دروس
 
