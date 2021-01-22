@@ -62,7 +62,7 @@
  
  ### ارزیابی بخش عمومی
 
- - [فعالیت مشترک](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/XX_GeneralSection_CheckList_AR_3991.docx)
+ - [فعالیت مشترک](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/ZAP_GeneralSection_CheckList_AR_3991.pdf)
 
 - [رزومه و انگیزه نامه](https://github.com/za-ahmadi/pnu_3991_ar/blob/main/ZAP_CV_CheckList_AR_3991.pdf)
 
